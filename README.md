@@ -1,4 +1,4 @@
-TITLE: CodTech IT Solutions Internship - Task Documentation: “To-DO LIST” Using CSS, HTML, JAVASCRIPT.
+TITLE: CodTech IT Solutions Internship - Task Documentation: “Weather Forecasting App” Using CSS, HTML, JAVASCRIPT.
 
 INTERN INFORMATION:
 Name: Namrata Kiran Tamse
